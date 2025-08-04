@@ -23,6 +23,50 @@ body {
     padding: 0 20px;
 }
 
+.intro-content {
+    max-width: 800px;
+    padding: 0 20px;
+}
+
+.university {
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+    color: #e6d7ff;
+}
+
+.intro-text {
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0 auto 25px;
+}
+
+/* CV Download Section */
+.cv-download {
+    margin-top: 30px;
+}
+
+.cv-button {
+    background: #9a7fbf;
+    padding: 12px 30px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.cv-button:hover {
+    background: #7d5fa3;
+}
+
+.download-icon {
+    font-size: 1.2rem;
+}
+
+.cv-note {
+    font-size: 0.8rem;
+    margin-top: 8px;
+    color: rgba(255,255,255,0.7);
+}
+
 .hero h1 {
     font-size: 2.5rem;
     margin-bottom: 20px;
